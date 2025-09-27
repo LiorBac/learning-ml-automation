@@ -1,6 +1,7 @@
 # Day 2 – Pandas Basics
 
-**Tutorial / Video used:** [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
+**Tutorial / Video used:** [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)  
+**Documentation:** [Pandas Official Docs](https://pandas.pydata.org/docs/)
 
 ## Topics Covered
 - Importing Pandas (`import pandas as pd`)
