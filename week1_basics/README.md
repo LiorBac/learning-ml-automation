@@ -7,12 +7,12 @@
 - Complete a small exploratory data analysis project
 
 ## 📂 Contents
-- `day1_numpy.ipynb` → Introduction to NumPy arrays and operations  
-- `day2_numpy_advanced.ipynb` → Slicing, broadcasting, and performance tricks  
-- `day3_pandas_basics.ipynb` → DataFrames, indexing, filtering  
-- `day4_pandas_advanced.ipynb` → GroupBy, joins, data cleaning  
-- `day5_visualization.ipynb` → Matplotlib & Seaborn basics  
-- `day6_eda_project.ipynb` → Mini exploratory data analysis project  
+- `day1_numpy` → Introduction to NumPy arrays and operations  
+- `day2_pandas` → DataFrames, indexing, filtering , GroupBy
+- `day3_python_automation` → File automation, reading/writing CSV/Excel, simple Python scripts
+- `day4_pandas_advanced` → joins, data cleaning  
+- `day5_visualization` → Matplotlib & Seaborn basics  
+- `day6_eda_project` → Mini exploratory data analysis project  
 
 ## 📝 Notes
 This week focuses on mastering the essential Python libraries that serve as the foundation for both Machine Learning and Automation.
